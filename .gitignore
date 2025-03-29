@@ -2,6 +2,8 @@
 # Extensions
 *.json
 *.exe
+
 # Folders
 .history
 .vscode
+.dist
